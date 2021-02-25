@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
 
 
-
-
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on all projects
+- 📫 How to reach me: Github, Linkedin
 
 
 
@@ -27,4 +29,4 @@ Here are some ideas to get you started:
 [![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanthsenthilvasagam)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthsenthilvasagam)](https://github.com/anuraghazra/github-readme-stats)
--->
+
