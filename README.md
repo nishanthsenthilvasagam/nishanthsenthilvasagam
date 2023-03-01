@@ -1,6 +1,9 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
+
+
 **nishanthsenthilvasagam/nishanthsenthilvasagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently ReactJS
 - 👯 I’m looking to collaborate on all projects
-- 📫 How to reach me: Github, Linkedin
+- 📫 How to reach me: Github
 
 
 
@@ -28,5 +31,5 @@ Here are some ideas to get you started:
 
 [![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanthsenthilvasagam)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthsenthilvasagam)](https://github.com/anuraghazra/github-readme-stats)
+
 
