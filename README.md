@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on all projects
-- 📫 How to reach me: Github
+
 
 
 
